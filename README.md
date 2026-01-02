@@ -9,10 +9,10 @@ This project implements several numerical methods in C# for educational purposes
 
 2. Numerical Integration
    - *Composite Trapezoidal Rule*: Approximates definite integrals using the trapezoidal method.
-   - Simpson's Rule: Approximates definite integrals with Simpson's method (requires even number of intervals).
+   - *Simpson's Rule*: Approximates definite integrals with Simpson's method (requires even number of intervals).
 
 3. Root Finding
-   - Fixed-Point Iteration: Solves nonlinear equations iteratively.
+   - **Fixed-Point Iteration**: Solves nonlinear equations iteratively.
    - Newton-Raphson Method: Finds roots of nonlinear equations using the derivative of the function.
    - Implements proper convergence criteria to ensure reliable results.
 
