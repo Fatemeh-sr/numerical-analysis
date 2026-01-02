@@ -8,7 +8,7 @@ This project implements several numerical methods in C# for educational purposes
    - Compares the approximate solution with the exact solution and calculates absolute error.
 
 2. Numerical Integration
-   - **Composite Trapezoidal Rule*: Approximates definite integrals using the trapezoidal method.
+   - *Composite Trapezoidal Rule*: Approximates definite integrals using the trapezoidal method.
    - Simpson's Rule: Approximates definite integrals with Simpson's method (requires even number of intervals).
 
 3. Root Finding
